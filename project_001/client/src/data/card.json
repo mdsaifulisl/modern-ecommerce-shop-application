@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "productId": 101,
+      "name": "ক্লাসিক কটন পাঞ্জাবি",
+      "price": 2190,
+      "size": "L",
+      "color": "সাদা",
+      "quantity": 2,
+      "image": "https://th.bing.com/th/id/OIP.8XmK7ENlWppbZjD8znNAYQHaJQ?w=203&h=254&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "productId": 103,
+      "name": "এক্সক্লুসিভ এমব্রয়ডারি পাঞ্জাবি",
+      "price": 6490,
+      "size": "M",
+      "color": "নেভি ব্লু",
+      "quantity": 1,
+      "image": "https://th.bing.com/th/id/OIP.8XmK7ENlWppbZjD8znNAYQHaJQ?w=203&h=254&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "productId": 104,
+      "name": "ক্লাসিক কটন পাঞ্জাবি",
+      "price": 2190,
+      "size": "L",
+      "color": "সাদা",
+      "quantity": 2,
+      "image": "https://th.bing.com/th/id/OIP.8XmK7ENlWppbZjD8znNAYQHaJQ?w=203&h=254&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "productId": 105,
+      "name": "এক্সক্লুসিভ এমব্রয়ডারি পাঞ্জাবি",
+      "price": 6490,
+      "size": "M",
+      "color": "নেভি ব্লু",
+      "quantity": 1,
+      "image": "https://th.bing.com/th/id/OIP.8XmK7ENlWppbZjD8znNAYQHaJQ?w=203&h=254&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "productId": 106,
+      "name": "ক্লাসিক কটন পাঞ্জাবি",
+      "price": 2190,
+      "size": "L",
+      "color": "সাদা",
+      "quantity": 2,
+      "image": "https://th.bing.com/th/id/OIP.8XmK7ENlWppbZjD8znNAYQHaJQ?w=203&h=254&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "productId": 107,
+      "name": "এক্সক্লুসিভ এমব্রয়ডারি পাঞ্জাবি",
+      "price": 6490,
+      "size": "M",
+      "color": "নেভি ব্লু",
+      "quantity": 1,
+      "image": "https://th.bing.com/th/id/OIP.8XmK7ENlWppbZjD8znNAYQHaJQ?w=203&h=254&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "productId": 108,
+      "name": "ক্লাসিক কটন পাঞ্জাবি",
+      "price": 2190,
+      "size": "L",
+      "color": "সাদা",
+      "quantity": 2,
+      "image": "https://th.bing.com/th/id/OIP.8XmK7ENlWppbZjD8znNAYQHaJQ?w=203&h=254&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "productId": 109,
+      "name": "এক্সক্লুসিভ এমব্রয়ডারি পাঞ্জাবি",
+      "price": 6490,
+      "size": "M",
+      "color": "নেভি ব্লু",
+      "quantity": 1,
+      "image": "https://th.bing.com/th/id/OIP.8XmK7ENlWppbZjD8znNAYQHaJQ?w=203&h=254&c=7&r=0&o=7&pid=1.7&rm=3"
+    }
+  ],
+  "totalQuantity": 3,
+  "totalPrice": 10870
+}

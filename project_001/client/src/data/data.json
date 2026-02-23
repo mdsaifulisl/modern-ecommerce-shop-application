@@ -1,0 +1,174 @@
+{
+  "products": [
+    {
+      "id": 101,
+      "productName": "ক্লাসিক কটন পাঞ্জাবি",
+      "price": 2490,
+      "discount_price": 2190,
+      "category_id": 1,
+      "sizes": ["M", "L", "XL"],
+      "color": "সাদা",
+      "stock": 25,
+      "image": "https://images.pexels.com/photos/13444265/pexels-photo-13444265.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "আরামদায়ক ও স্টাইলিশ কটন পাঞ্জাবি, দৈনন্দিন ও উৎসবের জন্য উপযুক্ত।"
+    },
+    
+    {
+      "id": 201,
+      "productName": "প্রিমিয়াম কটন টি-শার্ট",
+      "price": 850,
+      "discount_price": 650,
+      "category_id": 3,
+      "sizes": ["M", "L", "XL"],
+      "color": "কালো",
+      "stock": 50,
+      "image": "https://images.pexels.com/photos/1656681/pexels-photo-1656681.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "১০০% কটন ফেব্রিক, ক্যাজুয়াল ব্যবহারের জন্য সেরা।"
+    },
+    {
+      "id": 202,
+      "productName": "স্ট্রাইপড পলো শার্ট",
+      "price": 1250,
+      "discount_price": 1050,
+      "category_id": 3,
+      "sizes": ["L", "XL"],
+      "color": "নীল",
+      "stock": 30,
+      "image": "https://images.pexels.com/photos/1232459/pexels-photo-1232459.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "স্মার্ট ও আরামদায়ক পলো টি-শার্ট।"
+    },
+    {
+      "id": 301,
+      "productName": "জামদানি ডিজাইনের শাড়ি",
+      "price": 8500,
+      "discount_price": 7500,
+      "category_id": 4,
+      "sizes": ["Free Size"],
+      "color": "লাল",
+      "stock": 5,
+      "image": "https://images.pexels.com/photos/11181146/pexels-photo-11181146.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "হাতে বোনা আভিজাত্যপূর্ণ জামদানি শাড়ি।"
+    },
+    {
+      "id": 302,
+      "productName": "বেনারসি সিল্ক শাড়ি",
+      "price": 12000,
+      "discount_price": 10500,
+      "category_id": 4,
+      "sizes": ["Free Size"],
+      "color": "সোনালী",
+      "stock": 3,
+      "image": "https://images.pexels.com/photos/15725547/pexels-photo-15725547/free-photo-of-woman-in-sari.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "বিয়ের অনুষ্ঠানের জন্য এক্সক্লুসিভ বেনারসি শাড়ি।"
+    },
+    {
+      "id": 401,
+      "productName": "ফরমাল কটন শার্ট",
+      "price": 1850,
+      "discount_price": 1550,
+      "category_id": 5,
+      "sizes": ["M", "L", "XL"],
+      "color": "আকাশী",
+      "stock": 20,
+      "image": "https://images.pexels.com/photos/297933/pexels-photo-297933.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "অফিস বা ফরমাল মিটিংয়ের জন্য উপযুক্ত শার্ট।"
+    },
+    {
+      "id": 402,
+      "productName": "ক্যাজুয়াল চেক শার্ট",
+      "price": 1650,
+      "discount_price": 1400,
+      "category_id": 5,
+      "sizes": ["S", "M", "L"],
+      "color": "চেক",
+      "stock": 15,
+      "image": "https://images.pexels.com/photos/428333/pexels-photo-428333.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "স্মার্ট ক্যাজুয়াল লুকের জন্য চেক শার্ট।"
+    },
+    {
+      "id": 501,
+      "productName": "আলিগড় পায়জামা",
+      "price": 850,
+      "discount_price": 700,
+      "category_id": 6,
+      "sizes": ["M", "L", "XL"],
+      "color": "সাদা",
+      "stock": 40,
+      "image": "https://images.pexels.com/photos/10311559/pexels-photo-10311559.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "পাঞ্জাবির সাথে পরার জন্য আরামদায়ক পায়জামা।"
+    },
+    {
+      "id": 107,
+      "productName": "ডিপ ব্লু এমব্রয়ডারি পাঞ্জাবি",
+      "price": 3200,
+      "discount_price": 2800,
+      "category_id": 1,
+      "sizes": ["M", "L", "XXL"],
+      "color": "নীল",
+      "stock": 12,
+      "image": "https://images.pexels.com/photos/13444253/pexels-photo-13444253.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "গলায় সূক্ষ্ম কাজের স্টাইলিশ নীল পাঞ্জাবি।"
+    },
+    {
+      "id": 205,
+      "productName": "গ্রাফিক প্রিন্টেড টি-শার্ট",
+      "price": 950,
+      "discount_price": 750,
+      "category_id": 3,
+      "sizes": ["S", "M", "L"],
+      "color": "অলিভ",
+      "stock": 25,
+      "image": "https://images.pexels.com/photos/1018911/pexels-photo-1018911.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "তরুণদের জন্য ট্রেন্ডি গ্রাফিক প্রিন্ট টি-শার্ট।"
+    },
+    
+    {
+      "id": 405,
+      "productName": "অক্সফোর্ড ফরমাল শার্ট",
+      "price": 2200,
+      "discount_price": 1900,
+      "category_id": 5,
+      "sizes": ["M", "L", "XL"],
+      "color": "সাদা",
+      "stock": 10,
+      "image": "https://images.pexels.com/photos/634785/pexels-photo-634785.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "ক্লাসিক হোয়াইট অক্সফোর্ড শার্ট।"
+    },
+    {
+      "id": 210,
+      "productName": "হেনলি টি-শার্ট",
+      "price": 1100,
+      "discount_price": 850,
+      "category_id": 3,
+      "sizes": ["M", "L", "XL"],
+      "color": "গ্রে",
+      "stock": 20,
+      "image": "https://images.pexels.com/photos/1656684/pexels-photo-1656684.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "প্রিমিয়াম লুকের বাটন কলার টি-শার্ট।"
+    },
+    {
+      "id": 310,
+      "productName": "তাঁতের শাড়ি",
+      "price": 3500,
+      "discount_price": 2800,
+      "category_id": 4,
+      "sizes": ["Free Size"],
+      "color": "নীল-হলুদ",
+      "stock": 15,
+      "image": "https://images.pexels.com/photos/15000525/pexels-photo-15000525/free-photo-of-woman-wearing-saree.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "বাঙালি ঐতিহ্যের সুতি তাঁতের শাড়ি।"
+    },
+    {
+      "id": 110,
+      "productName": "ডিজিটাল প্রিন্ট পাঞ্জাবি",
+      "price": 2900,
+      "discount_price": 2500,
+      "category_id": 1,
+      "sizes": ["L", "XL"],
+      "color": "মাল্টি-কালার",
+      "stock": 14,
+      "image": "https://images.pexels.com/photos/13444262/pexels-photo-13444262.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "আধুনিক ডিজাইনের ডিজিটাল প্রিন্টেড পাঞ্জাবি।"
+    }
+  ]
+}
